@@ -4,3 +4,4 @@ pandas
 plotly
 seaborn
 streamlit
+~lotly==5.9.0
