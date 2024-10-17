@@ -2,5 +2,5 @@ matplotlib==3.9.2
 numpy==2.1.2
 pandas==2.2.3
 plotly
-plotly_express==0.4.1
+plotly_express
 streamlit==1.39.0
